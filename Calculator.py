@@ -57,5 +57,5 @@ Button(v, text=".", width=5, height=1, font=("arial", 30,"bold"), bd=1, fg="#fff
 
 Button(v, text="=", width=5, height=3, font=("arial", 30,"bold"), bd=1, fg="#fff", bg="#fe9037",command=lambda:show("=")).place(x=430, y=400) 
 
-v. mainloop() 
+v.mainloop() 
 
